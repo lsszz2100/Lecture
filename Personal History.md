@@ -9,7 +9,7 @@
  &nbsp&nbsp&nbsp&nbsp* Nuriins & SangnamDS 연구소(전)<br>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- 선임연구원.&nbsp 정보보안 컨설팅, 국가 연구과제, 기획업무.<br><br>    
  &nbsp&nbsp&nbsp&nbsp* 이찬진 컴퓨터 교육센터 광명본부 · 목동중앙지사 프로그래밍/소프트웨어 교육 강사(현)<br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- 전임강사.&nbsp 프로그래밍, 자격증 <br><br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- 전임강사.&nbsp 프로그래밍, 소프트웨어 교육, 자격증, 마케팅업무. <br><br>
     
 <h3>3. Project<br>
 
