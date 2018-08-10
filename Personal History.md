@@ -5,7 +5,8 @@
  * [IT Mania](http://blog.naver.com/lsszz210) 개인 IT 블로그 사이트(2012 ~ 2016, 재개예정)<br><br>
  * [Github](https://github.com/lsszz2100/) 개인 Github 사이트(2015 ~ 2017, 아이디 변경 완료. 재개예정)<br><br>
  * [Facebook](https://www.facebook.com/lsszz1) 개인 Facebook 사이트(2012 ~ 현재 )<br><br>
- * [Portfolio] 개인 심플 웹 포트폴리오(부트스트랩, 오픈소스) - 미완<br><br>
+ * [Portfolio](http://lsszz2.cafe24.com)개인 심플 웹 포트폴리오(부트스트랩, 오픈소스) - 미완<br><br>
+ * 
 <br>
 
 ### 2. Career
@@ -57,6 +58,7 @@
 * 부천역 개발 스터디 참여.(파이썬, 안드로이드, 자바 : 2014 ~ 2017)<br><br>
 * 정보보안 커뮤니티 활동(2016 ~ 현재)<br><br>
 * Itsuda 개발 프로젝트 팀. 사업기획 및 모바일 개발 기획(2017 ~ 현재)<br><br>
+* HP 개인 서버구축, 웹 서버 구축, 가상 OS 및 나스서버 구축 + 개발관련공부(도커, svn, git 등)(2017 ~ 현재)<br><br>
 * 인천지방경찰청 소속 정보보안 누리캅스 활동(2018 ~ 현재)<br><br>
 * 개발 서적 리뷰어, 서평단 활동(한빛미디어, 이지스퍼블리싱, 정보문화사, 베타리뷰어 등, 2018 ~ 현재)<br><br>
 <br>
