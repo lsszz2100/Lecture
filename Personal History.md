@@ -1,5 +1,6 @@
 # (Introduce) Lee sang sun.
-<h3>1. Portfolio site</h3><br>
+
+### 1. Portfolio site
 
 <h3>2. Career</h3>
 
