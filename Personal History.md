@@ -3,7 +3,7 @@
 ### 1. Portfolio site
  * [IT Mania](http://blog.naver.com/lsszz210) 개인 IT 블로그 사이트(2012 ~ 2016, 재개예정)<br>
  * [Github](https://github.com/lsszz2100/) 개인 Github 사이트(2015 ~ 2017, 아이디 변경 완료. 재개예정)<br>
- * [Portfolio](http://lsszz2.cafe24.com) 개인 심플 웹 포트폴리오(부트스트랩, 오픈소스)<br>
+ * [Portfolio] 개인 심플 웹 포트폴리오(부트스트랩, 오픈소스) - 미완<br>
 <br>
 
 ### 2. Career
@@ -79,6 +79,10 @@
 <br>
 
 
-### 7. Lecture
-
+### 7. Lecture activity
+    국가 NCS 기반 활동강사 :+1:<br><br>
+* 직장인 야간 국비지원교육 사무 강의
+* 중 · 고등학생 정보처리기능사 실기 강의
+* 대학생 정보처리기사 실기 강의<br>
+* 안드로이드 모바일 개발 강의<br>
 <br>
