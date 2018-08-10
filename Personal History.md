@@ -1,6 +1,8 @@
 # (Detail Introduce) Lee sang sun.
 
 ### 1. Portfolio site
+ * [IT Mania](http://blog.naver.com/lsszz210) 개인 IT 블로그 사이트(2012 - 2016, 재개예정)<br>
+ * [Portfolio](http://lsszz2.cafe24.com) 개인 심플 웹 포트폴리오(부트스트랩, 오픈소스)<br>
 
 ### 2. Career
 
