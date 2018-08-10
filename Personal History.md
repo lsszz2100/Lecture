@@ -1,4 +1,4 @@
-# (Detail Introduce) Lee sang sun.
+# Lee sang sun. (Detailed introduction)
 
 ### 1. Portfolio site
  * [IT Mania](http://blog.naver.com/lsszz210) 개인 IT 블로그 사이트(2012 - 2016, 재개예정)<br>
