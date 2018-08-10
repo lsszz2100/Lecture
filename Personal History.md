@@ -12,7 +12,7 @@
  &nbsp&nbsp&nbsp&nbsp* 이찬진 컴퓨터 교육센터 광명본부 · 목동중앙지사 프로그래밍/소프트웨어 교육 강사(현)<br>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- 전임강사.&nbsp 프로그래밍, 소프트웨어 교육, 자격증, 마케팅업무. <br><br>
     
-<h3>3. Project<br>
+<h3>3. Project</3>
 
  &nbsp&nbsp&nbsp&nbsp* 산업안전보건공단 : 산재예방통합정보시스템 구축(전)<br>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- 컨설턴트.&nbsp 연구 및 컨설팅, IOT 모델 청사진/로드맵 설계, 사업장 통계도출<br><br>
