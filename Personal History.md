@@ -1,6 +1,7 @@
 # Lee sang sun. (Detailed introduction)
 
 ### 1. Portfolio site
+
  * [IT Mania](http://blog.naver.com/lsszz210) 개인 IT 블로그 사이트(2012 ~ 2016, 재개예정)<br><br>
  * [Github](https://github.com/lsszz2100/) 개인 Github 사이트(2015 ~ 2017, 아이디 변경 완료. 재개예정)<br><br>
  * [Portfolio] 개인 심플 웹 포트폴리오(부트스트랩, 오픈소스) - 미완<br><br>
@@ -42,6 +43,8 @@
  * 안드로이드 Flashlight 손전등 어플리케이션 개발(2015, Java 구축)<br><br>
  * 안드로이드 molegame 두더지잡기 게임 어플리케이션 개발(2015, Java 구축)<br><br>
  * 안드로이드 Red Play 고전 리듬게임 어리케이션 개발(2016, Java 구축)<br><br>
+ * 안드로이드 업그레이드 스마트 알람 어리케이션 개발(2018, Java 구축, 진행 중)<br><br>
+ * 안드로이드 사진 편집 어리케이션 개발(2018, Java 구축, 진행 중)<br><br>
  * 그 외 아이폰 어플리케이션, 게임개발, C/C++, 웹개발 등 소규모 개인 toy 프로젝트 진행.<br><br>
 <br>
 
