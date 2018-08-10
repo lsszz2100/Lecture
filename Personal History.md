@@ -5,8 +5,8 @@
  * [IT Mania](http://blog.naver.com/lsszz210) 개인 IT 블로그 사이트(2012 ~ 2016, 재개예정)<br><br>
  * [Github](https://github.com/lsszz2100/) 개인 Github 사이트(2015 ~ 2017, 아이디 변경 완료. 재개예정)<br><br>
  * [Facebook](https://www.facebook.com/lsszz1) 개인 Facebook 사이트(2012 ~ 현재 )<br><br>
- * [Portfolio](http://lsszz2.cafe24.com)개인 심플 웹 포트폴리오(부트스트랩, 오픈소스) - 미완<br><br>
- * 
+ * [Portfolio](http://lsszz2.cafe24.com) 개인 심플 웹 포트폴리오(부트스트랩, 오픈소스) - 미완성<br><br>
+ * [Gmcom](http://gmcom.kr) 이찬진 컴퓨터교실 광명본부 · 목동중앙지사 공식 홈페이지<br><br>
 <br>
 
 ### 2. Career
@@ -14,7 +14,7 @@
  * 인천직업훈련학원(전)<br>
     : 전임 및 시간강사. 정보처리, 자격증, 국비교육, 홈페이지 유지보수 및 마케팅업무.<br><br>  
  * 안드로이드 어플리케이션 개발 프리랜서(전)<br>
-    : 개발자. 안드로이드 어플리케이션 템플릿 제작, 개발 및 판매업무.<br><br> 
+    : 개발자. 안드로이드 어플리케이션 템플릿 제작, 개발업무.<br><br> 
  * Nuriins & SangnamDS 연구소(전)<br>
     : 선임연구원. 정보보안 컨설팅, 국가 연구과제, 기획업무.<br><br>    
  * 이찬진 컴퓨터 교육센터 광명본부 · 목동중앙지사 프로그래밍/소프트웨어 교육 강사(현)<br>
