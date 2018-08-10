@@ -5,7 +5,7 @@
 ### 2. Career
 
  * 인천직업훈련학원(전)<br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- 전임 및 시간강사.&nbsp 정보처리, 자격증, 국비교육, 홈페이지 유지보수 및 마케팅업무.<br><br>  
+    - 전임 및 시간강사.&nbsp 정보처리, 자격증, 국비교육, 홈페이지 유지보수 및 마케팅업무.<br><br>  
  &nbsp&nbsp&nbsp&nbsp* 안드로이드 어플리케이션 개발 프리랜서(전)<br>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- 개발자.&nbsp 안드로이드 어플리케이션 템플릿 제작, 개발 및 판매업무.<br><br> 
  &nbsp&nbsp&nbsp&nbsp* Nuriins & SangnamDS 연구소(전)<br>
