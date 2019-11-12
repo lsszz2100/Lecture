@@ -1,4 +1,4 @@
-# Lee sang sun. (Detailed introduction)
+# Lee sang sun. (Detailed introduction - Update 2019. 11. 12)
 
 ### 1. Portfolio site :+1:<br>
 
