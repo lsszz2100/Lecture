@@ -7,7 +7,7 @@
  * [Facebook](https://www.facebook.com/lsszz1) 개인 IT Facebook 사이트(2012 ~ 현재 )<br><br>
  * [Portfolio](http://lsszz1.cafe24.com) 개인 심플 웹 포트폴리오(부트스트랩, 오픈소스) - 제작 준비중<br><br>
  * [Education Management](http://lsszz2.cafe24.com) 이찬진 IT 교육센터 회원관리 시스템(제작중)<br><br>
- * [CodePanda](http://www.codepanda.co.kr:8080/) (주)코드판다 공식 홈페이지 - 제작중<br><br>
+ * [CodePanda](http://www.codepanda.co.kr:8080/) (주) 코드판다 공식 홈페이지 - 제작중<br><br>
  * [Gmcom](http://gmcom.kr) 이찬진 컴퓨터교실 광명본부 · 목동중앙지사 공식 홈페이지<br><br>
 <br><br>
 
