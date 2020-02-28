@@ -6,7 +6,8 @@
  * [Github](https://github.com/lsszz2100/) 개인 Github 사이트(2015 ~ 2017, 아이디 변경 완료. 재개예정)<br><br>
  * [Facebook](https://www.facebook.com/lsszz1) 개인 IT Facebook 사이트(2012 ~ 현재 )<br><br>
  * [Portfolio](http://lsszz1.cafe24.com) 개인 심플 웹 포트폴리오(부트스트랩, 오픈소스) - 제작 준비중<br><br>
- * [CodePanda](http://lsszz2.cafe24.com) CodePanda 공식 홈페이지 - 제작중<br><br>
+ * [Education Management](http://lsszz2.cafe24.com) 이찬진 IT 교육센터 회원관리 시스템(제작중)<br><br>
+ * [CodePanda](http://www.codepanda.co.kr:8080/) (주)코드판다 공식 홈페이지 - 제작중<br><br>
  * [Gmcom](http://gmcom.kr) 이찬진 컴퓨터교실 광명본부 · 목동중앙지사 공식 홈페이지<br><br>
 <br><br>
 
@@ -21,7 +22,7 @@
  * 이찬진 컴퓨터 교육센터 광명본부 · 목동중앙지사 프로그래밍/소프트웨어 교육 강사(현)<br>
     : 전임강사. 프로그래밍, 소프트웨어 교육, IT 및 사무 자격증, 온라인 마케팅. <br><br>
  * Codepanda Inc. CTO(현)<br>
-    : CTO, 사업 및 교육기획, 온라인 마케팅, 프로그래밍 강의 <br><br>
+    : CTO, 교육 및 개발기획, 기술총괄, 프로그래밍 강의 <br><br>
 <br><br>
 
 ### 3. Project :+1:<br>
