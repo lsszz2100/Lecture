@@ -1,4 +1,4 @@
-# Lee sang sun. (Detailed introduction - Update 2020. 12. 12)
+# Lee sang sun. (Detailed introduction - Update 2021. 01. 03)
 
 # 본 경력 및 이력 리스트는 솔직하게 작성되었음을 알립니다.
 # 대외적으로 경력 및 이력을 오픈하고 스스로 반성하며 성장하기 위해 본 글을 매년 3회 이상 업데이트 예정입니다.
