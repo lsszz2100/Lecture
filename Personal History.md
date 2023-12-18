@@ -9,8 +9,6 @@
  * [IT Mania](http://blog.naver.com/lsszz210) 개인 IT 블로그 사이트(2018 리뉴얼 완료)<br><br>
  * [Github](https://github.com/lsszz2100/) 개인 Github 사이트(2015 ~ 2017, 아이디 변경 완료. 재개예정)<br><br>
  * [Facebook](https://www.facebook.com/lsszz1) 개인 IT Facebook 사이트(2012 ~ 현재 )<br><br>
- * [Portfolio](http://lsszz1.cafe24.com) 개인 심플 웹 포트폴리오(부트스트랩, 오픈소스) - 제작 준비중, 현재 개인정보처리방침 페이지<br><br>
- * [Education CMS](http://lsszz2.cafe24.com) 유튜브 CMS 시스템(커스텀 살계 및 제작 준비중 2020 ~)<br><br>
  * [Tracking map](http://lsszz3.cafe24.com) 광명시 코로나 바이러스 확진자 이동경로(초기 개발 버전)<br><br>
  * [CodePanda](http://www.codepanda.co.kr) (주) 코드판다 공식 홈페이지 - 기획/중지(2020)<br><br>
  * [Gmcom](http://gmcom.kr) 이찬진 컴퓨터교실 광명본부 · 목동중앙지사 공식 홈페이지<br><br>
